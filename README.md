@@ -10,7 +10,7 @@ Cover MapReduce  and PySpark to improve the process for handling big data; Look 
 •	Complete an analysis of an Amazon customer review.
 
 
-## Challenge 16
+## Discussion
 1. Perform the ETL process completely in the cloud and upload a DataFrame to an RDS instance. 
 2. Use PySpark or SQL to perform a statistical analysis (NLP pipeline) of selected data
 
